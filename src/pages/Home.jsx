@@ -19,8 +19,7 @@ const Home = () => {
     { value: "html-bootstrap", label: "HTML + Bootstrap" },
     { value: "html-css-js", label: "HTML + CSS + JS" },
     { value: "html-tailwind-bootstrap", label: "HTML + Tailwind + Bootstrap" },
-    { value: "react", label: "React (JSX)" },
-    { value: "react-ts", label: "React (TypeScript)" },
+    { value: "react", label: "React (JSX)" }
   ];
 
   const getLanguage = (framework) => {
